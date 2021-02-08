@@ -1,7 +1,7 @@
 WebSockets Sample App
 ====
 
-``WebSocketsSample`` is an app intended to demonstrate how websockets work, use as a starting point for a new websockets app, or help one learn more about websockets.  This implementation uses the [FastAPI|https://fastapi.tiangolo.com/] framework as it is replacing Flask.  My goal with the project was to learn more about FastAPI, ASGI, uvicorn, and websockets. The websockets code is based on the FastAPI [Docs|https://fastapi.tiangolo.com/advanced/websockets/].  This code is not intended for production use.
+``WebSocketsSample`` is an app intended to demonstrate how websockets work, use as a starting point for a new websockets app, or help one learn more about websockets.  This implementation uses the [FastAPI](https://fastapi.tiangolo.com/) framework as it is replacing Flask.  My goal with the project was to learn more about FastAPI, ASGI, uvicorn, and websockets. The websockets code is based on the FastAPI [Docs](https://fastapi.tiangolo.com/advanced/websockets/).  This code is not intended for production use.
 
 **ToDo:**
 - [ ] Add real websockets client frontend with React, Angular, or X
