@@ -1,3 +1,4 @@
+*.png
 /app/__pycache__/
 /app/venv/
 /scripts/venv/

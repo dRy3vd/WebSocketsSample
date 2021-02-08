@@ -31,6 +31,16 @@ docker run -d --name wsscontainer -p 8000:80 wssimage
 You should now be able to access the application:
 http://localhost:8000
 
+## Running with wireshark
+In use:
+![In Use](wss_use.png)
+
+Wireshark 1:
+![wireshark1](wss_wireshark1.png)
+
+Wireshark 2:
+![wireshark2](wss_wireshark2.png)
+
 ## License
 
 This project is licensed under the terms of the MIT license.
